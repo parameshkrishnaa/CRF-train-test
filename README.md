@@ -12,8 +12,14 @@ su​
 make install
 ```
 
-### Installation possible error and fix
+### Test CRF installation
+crf_test --version
 
+### Installation possible error and fix
+**if you get an error as below if libcrfpp.so.0 not found after CRF installation than execute the below command**
+````
+ln -s /usr/local/lib/libcrfpp.so.0 /usr/lib/libcrfpp.so.0
+````
 
 ### To train
 crf_learn <template_file> <train_file> <model>
