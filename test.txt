@@ -1,0 +1,97 @@
+i	i
+'d	'd
+like	like
+to	to
+go	go
+to	to
+a	a
+fancy	fancy
+restaurant	restaurant
+.	.
+
+i	i
+'d	'd
+like	like
+french	french
+food	food
+.	.
+
+next	next
+thursday	thursday
+.	.
+
+next	next
+thursday	thursday
+.	.
+
+dinner	dinner
+.	.
+
+i	i
+want	want
+to	to
+eat	eat
+french	french
+food	food
+.	.
+
+i	i
+want	want
+to	to
+have	have
+dinner	dinner
+.	.
+
+it	it
+can	can
+be	be
+really	really
+expensive	expensive
+.	.
+
+as	as
+far	far
+away	away
+as	as
+we	we
+can	can
+get	get
+.	.
+
+as	as
+far	far
+away	away
+as	as
+we	we
+can	can
+get	get
+.	.
+
+as	as
+far	far
+away	away
+as	as
+we	we
+can	can
+get	get
+.	.
+
+i	i
+want	want
+to	to
+be	be
+far	far
+away	away
+from	from
+icsi	icsi
+.	.
+
+tell	tell
+me	me
+about	about
+le	le
+bateau	bateau
+ivre	ivre
+.	.
+
+	
